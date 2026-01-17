@@ -93,8 +93,7 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg
-      " width="100" height="100" alt="Google" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="100" height="100" alt="Google" />
       <br>
       <b>Google Leval 1</b>
       <br>
@@ -139,4 +138,5 @@ I'm always open to collaborating on exciting projects, learning new technologies
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer&text=Let's%20Collaborate!&fontSize=30&fontColor=ffffff"/>
 </p>
+
 
