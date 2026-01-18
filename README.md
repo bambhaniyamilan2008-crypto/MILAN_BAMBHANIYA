@@ -97,17 +97,17 @@
       <br>
       <b>Google Leval 1</b>
       <br>
-      <a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">
-        <img src="https://img.shields.io/badge/View_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="25"/>
+      <a href="https://edu.google.accredible.com/1508290d-7f6b-4d09-a25e-3db50417970f" target="_blank">
+        <img src="https://img.shields.io/badge/View_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25"/>
       </a>
     </td>
     <td align="center" width="33%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="100" height="100" alt="HackerRank" />
       <br>
-      <b>Google</b>
+      <b>Google Educator</b>
       <br>
-      <a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">
-        <img src="https://img.shields.io/badge/View_Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="25"/>
+      <a href="https://edu.google.accredible.com/265e9bab-7e00-40e9-8f8f-3b732e46a839"_blank">
+        <img src="https://img.shields.io/badge/View_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25"/>
       </a>
     </td>
     <td align="center" width="33%">
@@ -115,8 +115,8 @@
       <br>
       <b>Google Leval 2</b>
       <br>
-      <a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">
-        <img src="https://img.shields.io/badge/View_Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white" height="25"/>
+      <a href="https://edu.google.accredible.com/f36de38b-a3bb-4c22-bf10-0048e7a1bb22" target="_blank">
+        <img src="https://img.shields.io/badge/View_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25"/>
       </a>
     </td>
   </tr>
@@ -138,5 +138,6 @@ I'm always open to collaborating on exciting projects, learning new technologies
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer&text=Let's%20Collaborate!&fontSize=30&fontColor=ffffff"/>
 </p>
+
 
 
